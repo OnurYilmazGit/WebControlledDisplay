@@ -72,4 +72,4 @@ You can use the `curl` command-line tool to interact with the server endpoints. 
 
 ## Example Image
 
-![ESP32 Board](/Cleaned_Display.jpg)
+![ESP32 Board](/Cleaned_Display.jpeg)
